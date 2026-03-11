@@ -25,7 +25,7 @@ const tools: Tool[] = [
     price: "$149",
     rating: "9.2/10",
     badge: "Top Pick",
-    href: "#",
+    href: "https://shop.ledger.com/?r=a3428da9c143",
   },
   {
     name: "Trezor Model T",
@@ -33,7 +33,7 @@ const tools: Tool[] = [
     description: "Open-source firmware. Touchscreen. Strongest for Bitcoin-focused users.",
     price: "$179",
     rating: "9.0/10",
-    href: "#",
+    href: "https://shop.ledger.com/?r=a3428da9c143",
   },
   {
     name: "ProtonVPN",
@@ -42,7 +42,7 @@ const tools: Tool[] = [
     price: "Free / $5/mo",
     rating: "9.4/10",
     badge: "Top Pick",
-    href: "#",
+    href: "https://go.getproton.me/aff_c?offer_id=26&aff_id=16789",
   },
   {
     name: "Mullvad VPN",
@@ -67,7 +67,7 @@ const tools: Tool[] = [
     price: "Free / $4/mo",
     rating: "9.5/10",
     badge: "Top Pick",
-    href: "#",
+    href: "https://go.getproton.me/aff_c?offer_id=26&aff_id=16789",
   },
   {
     name: "Bitwarden",
@@ -84,7 +84,7 @@ const tools: Tool[] = [
     description: "Create unlimited email aliases. Owned by Proton. Stops tracking and spam.",
     price: "Free / $4/mo",
     rating: "9.0/10",
-    href: "#",
+    href: "https://go.getproton.me/aff_c?offer_id=26&aff_id=16789",
   },
   {
     name: "YubiKey 5",
