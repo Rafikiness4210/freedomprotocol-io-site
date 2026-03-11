@@ -1,0 +1,159 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Length 1199 >>
+stream
+0.043 0.067 0.129 rg 0 0 612 792 re f
+0.96 0.65 0.14 rg 0 750 612 42 re f
+BT 0.043 0.067 0.129 rg /F2 10 Tf 50 762 Td (FREEDOMPROTOCOL.IO) Tj ET
+BT 0.043 0.067 0.129 rg /F1 10 Tf 400 762 Td (SECURITY INTELLIGENCE) Tj ET
+BT 0.96 0.94 0.91 rg /F2 36 Tf 50 620 Td (THE CRYPTO) Tj ET
+BT 0.96 0.65 0.14 rg /F2 36 Tf 50 576 Td (SECURITY) Tj ET
+BT 0.96 0.94 0.91 rg /F2 36 Tf 50 532 Td (CHECKLIST) Tj ET
+0.96 0.65 0.14 RG 2 w 50 492 m 200 492 l S
+BT 0.58 0.64 0.72 rg /F1 14 Tf 50 462 Td (25-Point Audit You Can Run in 30 Minutes) Tj ET
+BT 0.58 0.64 0.72 rg /F1 10 Tf 50 438 Td (Updated March 2026) Tj ET
+BT 0.58 0.64 0.72 rg /F1 10 Tf 50 378 Td ($3.8 billion was stolen from crypto holders in 2025. Most of it was preventable.) Tj ET
+BT 0.58 0.64 0.72 rg /F1 10 Tf 50 364 Td (This checklist covers the 25 most critical security controls, organized into 5) Tj ET
+BT 0.58 0.64 0.72 rg /F1 10 Tf 50 350 Td (categories. Run through it in 30 minutes. Fix what fails. Run it again monthly.) Tj ET
+0.067 0.106 0.188 rg 50 272 495 50 re f
+BT 0.96 0.94 0.91 rg /F2 16 Tf 70 290 Td (YOUR SCORE:        / 25) Tj ET
+BT 0.58 0.64 0.72 rg /F1 12 Tf 350 290 Td (DATE:) Tj ET
+0.58 0.64 0.72 RG 0.5 w 400 284 m 520 284 l S
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 2807 >>
+stream
+0.043 0.067 0.129 rg 0 0 612 792 re f
+0.067 0.106 0.188 rg 0 750 612 42 re f
+BT 0.96 0.65 0.14 rg /F2 9 Tf 50 762 Td (CRYPTO SECURITY CHECKLIST) Tj ET
+BT 0.58 0.64 0.72 rg /F1 9 Tf 430 762 Td (FREEDOMPROTOCOL.IO) Tj ET
+0.067 0.106 0.188 rg 50 718 495 24 re f
+BT 0.96 0.65 0.14 rg /F2 11 Tf 58 722 Td (WALLET SECURITY  \(7 POINTS\)) Tj ET
+0.58 0.64 0.72 RG 56 689 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 690 Td (Hardware wallet firmware is up to date) Tj ET
+0.58 0.64 0.72 RG 56 669 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 670 Td (Seed phrase stored on metal \(not paper, not digital\)) Tj ET
+0.58 0.64 0.72 RG 56 649 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 650 Td (Seed phrase in 2+ separate physical locations) Tj ET
+0.58 0.64 0.72 RG 56 629 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 630 Td (Hot wallet holds < 5% of total holdings) Tj ET
+0.58 0.64 0.72 RG 56 609 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 610 Td (No unused token approvals \(check revoke.cash\)) Tj ET
+0.58 0.64 0.72 RG 56 589 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 590 Td (Wallet apps downloaded from official sources only) Tj ET
+0.58 0.64 0.72 RG 56 569 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 570 Td (Using a dedicated device for crypto transactions) Tj ET
+0.067 0.106 0.188 rg 50 528 495 24 re f
+BT 0.96 0.65 0.14 rg /F2 11 Tf 58 532 Td (ACCOUNT SECURITY  \(5 POINTS\)) Tj ET
+0.58 0.64 0.72 RG 56 499 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 500 Td (Unique email for crypto accounts \(not personal email\)) Tj ET
+0.58 0.64 0.72 RG 56 479 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 480 Td (2FA enabled on ALL exchange accounts \(hardware key preferred\)) Tj ET
+0.58 0.64 0.72 RG 56 459 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 460 Td (No SMS-based 2FA \(SIM swap vulnerable\)) Tj ET
+0.58 0.64 0.72 RG 56 439 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 440 Td (Unique strong password per exchange \(password manager\)) Tj ET
+0.58 0.64 0.72 RG 56 419 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 420 Td (Withdrawal address whitelisting enabled) Tj ET
+0.067 0.106 0.188 rg 50 378 495 24 re f
+BT 0.96 0.65 0.14 rg /F2 11 Tf 58 382 Td (DEVICE SECURITY  \(5 POINTS\)) Tj ET
+0.58 0.64 0.72 RG 56 349 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 350 Td (Device OS and apps fully updated) Tj ET
+0.58 0.64 0.72 RG 56 329 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 330 Td (Full disk encryption enabled) Tj ET
+0.58 0.64 0.72 RG 56 309 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 310 Td (Antivirus / anti-malware active and current) Tj ET
+0.58 0.64 0.72 RG 56 289 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 290 Td (No browser extensions except verified security tools) Tj ET
+0.58 0.64 0.72 RG 56 269 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 270 Td (VPN active when accessing crypto services) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 2953 >>
+stream
+0.043 0.067 0.129 rg 0 0 612 792 re f
+0.067 0.106 0.188 rg 0 750 612 42 re f
+BT 0.96 0.65 0.14 rg /F2 9 Tf 50 762 Td (CRYPTO SECURITY CHECKLIST) Tj ET
+BT 0.58 0.64 0.72 rg /F1 9 Tf 430 762 Td (FREEDOMPROTOCOL.IO) Tj ET
+0.067 0.106 0.188 rg 50 718 495 24 re f
+BT 0.96 0.65 0.14 rg /F2 11 Tf 58 722 Td (NETWORK SECURITY  \(4 POINTS\)) Tj ET
+0.58 0.64 0.72 RG 56 689 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 690 Td (Never access wallets on public WiFi \(even with VPN\)) Tj ET
+0.58 0.64 0.72 RG 56 669 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 670 Td (Home router firmware updated) Tj ET
+0.58 0.64 0.72 RG 56 649 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 650 Td (DNS set to encrypted provider \(1.1.1.1 or Quad9\)) Tj ET
+0.58 0.64 0.72 RG 56 629 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 630 Td (Using a no-log VPN for all crypto activity) Tj ET
+0.067 0.106 0.188 rg 50 588 495 24 re f
+BT 0.96 0.65 0.14 rg /F2 11 Tf 58 592 Td (OPERATIONAL SECURITY  \(4 POINTS\)) Tj ET
+0.58 0.64 0.72 RG 56 559 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 560 Td (Never publicly discussed exact holdings) Tj ET
+0.58 0.64 0.72 RG 56 539 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 540 Td (No screenshots of wallet balances shared) Tj ET
+0.58 0.64 0.72 RG 56 519 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 520 Td (Exchange withdrawal confirmations go to secure email) Tj ET
+0.58 0.64 0.72 RG 56 499 10 10 re S
+BT 0.96 0.94 0.91 rg /F1 10 Tf 74 500 Td (Emergency plan documented \(if incapacitated\)) Tj ET
+0.96 0.65 0.14 RG 1 w 50 460 m 545 460 l S
+BT 0.96 0.65 0.14 rg /F2 16 Tf 50 440 Td (SCORING) Tj ET
+0.09 0.53 0.46 rg 50 394 495 26 re f
+BT 0.96 0.94 0.91 rg /F2 10 Tf 62 402 Td (25/25    Protocol-grade security. Maintain it.) Tj ET
+0.15 0.25 0.08 rg 50 362 495 26 re f
+BT 0.96 0.94 0.91 rg /F2 10 Tf 62 370 Td (20-24    Strong. Fix the gaps this week.) Tj ET
+0.35 0.25 0.05 rg 50 330 495 26 re f
+BT 0.96 0.94 0.91 rg /F2 10 Tf 62 338 Td (15-19    Vulnerable. Prioritize hardware wallet + 2FA now.) Tj ET
+0.35 0.08 0.08 rg 50 298 495 26 re f
+BT 0.96 0.94 0.91 rg /F2 10 Tf 62 306 Td (Below 15  Critical risk. Secure your stack TODAY.) Tj ET
+BT 0.96 0.65 0.14 rg /F2 14 Tf 50 266 Td (RECOMMENDED TOOLS) Tj ET
+BT 0.96 0.94 0.91 rg /F1 10 Tf 50 240 Td (Hardware Wallet: Ledger Nano X or Trezor Model T) Tj ET
+BT 0.96 0.94 0.91 rg /F1 10 Tf 50 222 Td (VPN: ProtonVPN \(free\) or Mullvad \($5/mo\)) Tj ET
+BT 0.96 0.94 0.91 rg /F1 10 Tf 50 204 Td (Password Manager: Bitwarden \(free\)) Tj ET
+BT 0.96 0.94 0.91 rg /F1 10 Tf 50 186 Td (2FA: YubiKey 5 hardware security key \($50\)) Tj ET
+BT 0.96 0.94 0.91 rg /F1 10 Tf 50 168 Td (Email: ProtonMail + SimpleLogin aliases) Tj ET
+0.067 0.106 0.188 RG 0.5 w 50 130 m 545 130 l S
+BT 0.58 0.64 0.72 rg /F1 9 Tf 50 114 Td (Run this audit monthly. Your security is only as strong as your weakest link.) Tj ET
+BT 0.96 0.65 0.14 rg /F1 9 Tf 50 97 Td (More guides, tools, and weekly briefings at freedomprotocol.io) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+endobj
+10 0 obj
+<< /Type /Catalog /Pages 9 0 R >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000000154 00000 n 
+0000001405 00000 n 
+0000001541 00000 n 
+0000004400 00000 n 
+0000004536 00000 n 
+0000007541 00000 n 
+0000007677 00000 n 
+0000007746 00000 n 
+trailer
+<< /Size 11 /Root 10 0 R >>
+startxref
+7796
+%%EOF

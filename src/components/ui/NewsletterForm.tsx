@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { ArrowRight, Loader2, Check } from "lucide-react";
+import { ArrowRight, Loader2, Check, Download } from "lucide-react";
 
 export function NewsletterForm() {
   const [email, setEmail] = useState("");
@@ -35,9 +35,19 @@ export function NewsletterForm() {
 
   if (status === "success") {
     return (
-      <div className="flex items-center justify-center gap-2 bg-sunset-gold/10 border border-sunset-gold/20 rounded-full px-6 py-3 text-sunset-gold">
-        <Check className="w-5 h-5" />
-        <span className="font-medium">You&apos;re in. Check your inbox.</span>
+      <div className="flex flex-col items-center gap-3">
+        <div className="flex items-center gap-2 bg-sunset-gold/10 border border-sunset-gold/20 rounded-full px-6 py-3 text-sunset-gold">
+          <Check className="w-5 h-5" />
+          <span className="font-medium">You&apos;re in. Check your inbox.</span>
+        </div>
+        <a
+          href="/crypto-security-checklist.pdf"
+          download
+          className="inline-flex items-center gap-2 text-sm text-lagoon-teal hover:text-sunset-gold transition-colors font-medium"
+        >
+          <Download className="w-4 h-4" />
+          Download your Crypto Security Checklist (PDF)
+        </a>
       </div>
     );
   }
