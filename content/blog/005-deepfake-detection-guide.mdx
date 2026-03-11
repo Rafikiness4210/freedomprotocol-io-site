@@ -1,0 +1,117 @@
+---
+title: "How to Spot AI Deepfakes Before They Steal Your Crypto"
+slug: "deepfake-detection-guide"
+date: "2026-02-25"
+category: "ai-security"
+keywords:
+  - deepfake detection crypto
+  - ai deepfake defense
+  - video call verification
+  - deepfake scam protection
+description: "Deepfake video calls are being used to authorize crypto transfers. Here's how to spot them and build verification systems that AI can't fool."
+readingTime: 7
+affiliate: []
+---
+
+# How to Spot AI Deepfakes Before They Steal Your Crypto
+
+In January 2026, a finance director in Hong Kong wired $25 million after a video call with his company's CFO. Every person on the call was a deepfake. The voices, the faces, the mannerisms — all generated in real time by AI.
+
+This isn't science fiction. It's the new normal for social engineering attacks against crypto holders and businesses.
+
+## The Current State of Deepfakes
+
+Real-time deepfake technology has crossed a critical threshold:
+
+- **Video quality** — Consumer-grade GPUs can render convincing face swaps at 30fps over a standard video call
+- **Voice cloning** — 3 seconds of sample audio produces a 95% accurate voice clone
+- **Latency** — Real-time processing adds less than 200ms delay, imperceptible in normal conversation
+- **Cost** — The entire setup costs under $200 in cloud compute per hour
+
+Standard video calling platforms (Zoom, Google Meet, Teams) have zero deepfake detection built in.
+
+## How Deepfake Attacks Target Crypto
+
+### The Multi-Sig Authorization Call
+
+A DAO treasury requires 3-of-5 signers. An attacker deepfakes two signers on a video call, creating urgency around a "critical security move." The real signers authorize the transaction, believing they're acting alongside verified colleagues.
+
+### The KYC Bypass
+
+Attackers use deepfakes to pass exchange KYC checks, creating verified accounts under stolen identities. These accounts are then used for laundering stolen crypto.
+
+### The Investment Pitch
+
+A deepfaked version of a well-known crypto founder pitches a "private round" on a video call. Victims send funds to what they believe is a legitimate opportunity.
+
+## Detection: What to Look For
+
+### Visual Artifacts
+
+- **Edge flickering** — Watch the boundary between the face and hair/ears. Deepfakes often shimmer at edges.
+- **Eye reflection** — In real video, light reflections in both eyes are consistent. Deepfakes often get this wrong.
+- **Teeth detail** — AI struggles with realistic tooth rendering, especially during speech.
+- **Head rotation** — Ask the person to turn their head 90 degrees. Most real-time deepfakes break or glitch at extreme angles.
+- **Hand-to-face interaction** — Ask them to touch their face. Hands passing over the face region causes rendering artifacts.
+
+### Behavioral Cues
+
+- **Blinking patterns** — Early deepfakes blinked too rarely; modern ones may blink too regularly (unnaturally consistent intervals)
+- **Micro-expressions** — Genuine surprise, disgust, or confusion involves dozens of micro-muscle movements that AI still can't fully replicate
+- **Response to unexpected questions** — "Hold up three fingers" or "Show me what's behind you" can break scripted deepfakes
+
+### Technical Checks
+
+- **Connection quality** — Deepfake processing adds latency. If someone has suspiciously "perfect" video quality but delayed responses, be cautious.
+- **Background consistency** — Does the background match what they claim? Can they interact with physical objects in frame?
+- **Audio-visual sync** — Watch for slight desynchronization between lip movement and audio
+
+## Building Deepfake-Proof Verification
+
+### The Challenge-Response Protocol
+
+Before any high-value action on a video call, use physical verification:
+
+1. **Random object challenge** — "Hold up the red notebook from your desk." Only the real person knows what objects are nearby.
+2. **Written verification** — "Write today's date and the word 'verified' on a piece of paper and hold it up." Real-time text generation is very difficult for deepfakes.
+3. **Physical movement** — "Stand up and take a step back from the camera." Full-body deepfakes are far less convincing than face-only.
+
+### The Code Word System
+
+Establish rotating code words with anyone who has financial authority:
+
+- Monthly rotation
+- Shared via in-person meeting or encrypted channel only
+- Must be spoken naturally in conversation, not prompted
+- If the code word is wrong or absent, abort the transaction
+
+### Multi-Channel Verification
+
+Never rely on a single channel for authorization:
+
+- Video call + encrypted text confirmation
+- Text + phone callback to a known number
+- Any combination that requires the attacker to compromise multiple systems simultaneously
+
+## Tools and Resources
+
+- **Browser extensions** for deepfake detection are emerging but unreliable — don't depend on them
+- **Hardware security keys** bypass all voice/video social engineering — the attacker can't clone a YubiKey
+- **Signal video calls** offer end-to-end encryption and safety numbers to verify the endpoint
+
+## The Uncomfortable Truth
+
+Detection technology will always lag behind generation technology. The realistic path forward is not "detect all deepfakes" but "build systems that don't rely on visual/audio identity verification."
+
+That means:
+
+- Hardware authentication over biometric
+- Cryptographic signatures over voice confirmation
+- Time-delayed multi-party authorization over real-time approval
+- Code words and physical challenges as backup layers
+
+## Bottom Line
+
+If your security depends on recognizing a face or voice, it's already breakable. The next generation of attacks won't give you visual artifacts to catch — they'll be perfect.
+
+Build your verification stack around things AI can't fake: physical objects, cryptographic keys, and pre-shared secrets. The protocol protects. Follow it.

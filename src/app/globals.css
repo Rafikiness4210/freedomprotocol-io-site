@@ -1,0 +1,117 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&family=JetBrains+Mono:wght@400;500&display=swap");
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: clip;
+  }
+
+  body {
+    @apply bg-background text-sand-white font-sans;
+    overflow-x: hidden;
+  }
+
+  ::selection {
+    @apply bg-sunset-gold/20 text-sunset-gold;
+  }
+
+  /* Smooth image rendering */
+  img {
+    image-rendering: auto;
+  }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar {
+    width: 5px;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-background;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-sunset-gold/20 rounded-full;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-sunset-gold/40;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-gradient-to-r from-sunset-gold to-warm-coral text-background font-semibold px-7 py-3.5 rounded-full
+           hover:shadow-glow-strong hover:scale-[1.02] active:scale-[0.98]
+           transition-all duration-300 inline-flex items-center gap-2;
+  }
+
+  .btn-secondary {
+    @apply border border-sand-white/20 text-sand-white font-semibold px-7 py-3.5 rounded-full
+           hover:bg-sand-white/5 hover:border-sand-white/40 transition-all duration-300 inline-flex items-center gap-2;
+  }
+
+  .btn-ghost {
+    @apply text-drift-gray hover:text-sunset-gold px-4 py-2 rounded-full
+           transition-colors duration-200 inline-flex items-center gap-2;
+  }
+
+  .card {
+    @apply bg-surface/80 backdrop-blur-sm border border-border/60 rounded-2xl p-6
+           hover:border-sunset-gold/20 hover:shadow-glow-warm transition-all duration-300;
+  }
+
+  .terminal-block {
+    @apply bg-background border-l-2 border-sunset-gold rounded-lg p-4
+           font-mono text-sm text-sunset-gold;
+  }
+
+  .alert-security {
+    @apply bg-surface border-l-4 border-danger-red rounded-r-lg p-4;
+  }
+
+  .alert-tip {
+    @apply bg-surface border-l-4 border-palm-green rounded-r-lg p-4;
+  }
+
+  .alert-info {
+    @apply bg-surface border-l-4 border-ocean-blue rounded-r-lg p-4;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-sunset-gold via-warm-coral to-coral-pink bg-clip-text text-transparent;
+  }
+
+  .gradient-text-ocean {
+    @apply bg-gradient-to-r from-ocean-blue to-lagoon-teal bg-clip-text text-transparent;
+  }
+
+  .section-heading {
+    @apply text-3xl md:text-4xl font-heading font-bold tracking-tight;
+  }
+
+  /* Atmospheric glow orbs */
+  .orb-sunset {
+    @apply absolute rounded-full blur-[120px] opacity-20 pointer-events-none;
+    background: radial-gradient(circle, #F5A623 0%, transparent 70%);
+  }
+
+  .orb-ocean {
+    @apply absolute rounded-full blur-[120px] opacity-15 pointer-events-none;
+    background: radial-gradient(circle, #38BDF8 0%, transparent 70%);
+  }
+
+  .orb-coral {
+    @apply absolute rounded-full blur-[100px] opacity-10 pointer-events-none;
+    background: radial-gradient(circle, #FB7185 0%, transparent 70%);
+  }
+}
+
+/* ─── Utility overrides ─── */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
