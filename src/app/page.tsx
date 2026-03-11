@@ -183,7 +183,7 @@ export default function Home() {
           ═══════════════════════════════════════════════ */}
       <div className="border-y border-border/30 py-5 bg-surface/30">
         <ScrollingBanner
-          text="PROTECT YOUR WEALTH \u2022 DEFEND YOUR IDENTITY \u2022 LIVE ANYWHERE \u2022 TOTAL SOVEREIGNTY"
+          text="PROTECT YOUR WEALTH • DEFEND YOUR IDENTITY • LIVE ANYWHERE • TOTAL SOVEREIGNTY"
           className="text-sm md:text-base font-heading font-semibold tracking-[0.15em] text-sunset-gold/30"
         />
       </div>
