@@ -58,7 +58,7 @@ const tools: Tool[] = [
     description: "Fastest speeds in testing. Double VPN feature. Good all-rounder.",
     price: "$3.49/mo (2yr)",
     rating: "8.8/10",
-    href: "#",
+    href: "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142972&url_id=902",
   },
   {
     name: "ProtonMail",
