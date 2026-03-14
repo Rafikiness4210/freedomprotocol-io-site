@@ -67,7 +67,7 @@ const tools: Tool[] = [
     price: "Free / $4/mo",
     rating: "9.5/10",
     badge: "Top Pick",
-    href: "https://go.getproton.me/aff_c?offer_id=26&aff_id=16789",
+    href: "https://go.getproton.me/aff_c?offer_id=7&aff_id=16789",
   },
   {
     name: "Bitwarden",
@@ -84,7 +84,7 @@ const tools: Tool[] = [
     description: "Create unlimited email aliases. Owned by Proton. Stops tracking and spam.",
     price: "Free / $4/mo",
     rating: "9.0/10",
-    href: "https://go.getproton.me/aff_c?offer_id=26&aff_id=16789",
+    href: "https://go.getproton.me/aff_c?offer_id=7&aff_id=16789",
   },
   {
     name: "YubiKey 5",
